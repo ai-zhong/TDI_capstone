@@ -9,3 +9,5 @@ This second stage of capstone extracts the titles of those assigned patents for 
 *The interactive plots need to be downloaded as html to view on local computer.*
 
 Inside the interactive plots folder, 10 files each represent a model ran for that sector. It shows the top hot words appeared in that sector.
+
+For 'other topics' folder, there are some codes I tried to study the relationship between stock price and patent assignment, which no meaningful relationship is revealed at this moment. 
